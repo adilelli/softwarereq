@@ -1,22 +1,22 @@
-<mxfile host="app.diagrams.net" modified="2023-10-21T17:43:10.475Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="qcWHZhtKn--MgBD7FAfy" version="22.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-22T02:57:18.902Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="XpHpYnQfVTAz6Rb5_OFd" version="22.0.6" type="github">
   <diagram name="Page-1" id="f31c993MnNktxt3acmLQ">
     <mxGraphModel dx="954" dy="642" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="MZs_MeEJ6j7sGni2RoES-1" value="Student" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
-          <mxGeometry x="80" y="190" width="30" height="60" as="geometry" />
+          <mxGeometry x="65" y="190" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MZs_MeEJ6j7sGni2RoES-2" value="Register Course" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="280" y="170" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="MZs_MeEJ6j7sGni2RoES-3" value="Course Info Staff" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="MZs_MeEJ6j7sGni2RoES-3" value="View Course Staff" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="270" y="340" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="MZs_MeEJ6j7sGni2RoES-5" value="Professor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="620" y="350" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="MZs_MeEJ6j7sGni2RoES-7" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" edge="1">
+        <mxCell id="MZs_MeEJ6j7sGni2RoES-7" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1" source="MZs_MeEJ6j7sGni2RoES-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="120" y="210" as="sourcePoint" />
             <mxPoint x="280" y="210" as="targetPoint" />
@@ -34,26 +34,8 @@
         <mxCell id="MZs_MeEJ6j7sGni2RoES-10" value="Edit Course" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="280" y="30" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="MZs_MeEJ6j7sGni2RoES-11" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.075;entryY=0.813;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="MZs_MeEJ6j7sGni2RoES-10" edge="1" source="MZs_MeEJ6j7sGni2RoES-1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="120" y="170" as="sourcePoint" />
-            <mxPoint x="280" y="170" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="MZs_MeEJ6j7sGni2RoES-12" value="Pre Approval" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="575" y="40" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="MZs_MeEJ6j7sGni2RoES-13" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.1;entryY=0.825;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1.025;exitY=0.425;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="MZs_MeEJ6j7sGni2RoES-2" target="MZs_MeEJ6j7sGni2RoES-12" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="400" y="280" as="sourcePoint" />
-            <mxPoint x="450" y="230" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="MZs_MeEJ6j7sGni2RoES-15" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="350" y="120" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="MZs_MeEJ6j7sGni2RoES-16" value="&amp;lt;&amp;lt;includes&amp;gt;&amp;gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="485" y="160" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MZs_MeEJ6j7sGni2RoES-17" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="MZs_MeEJ6j7sGni2RoES-2" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -67,41 +49,41 @@
             <mxPoint x="450" y="230" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MZs_MeEJ6j7sGni2RoES-21" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+        <mxCell id="MZs_MeEJ6j7sGni2RoES-21" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" parent="1" edge="1" target="MZs_MeEJ6j7sGni2RoES-22">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="94.5" y="340" as="sourcePoint" />
-            <mxPoint x="94.5" y="250" as="targetPoint" />
+            <mxPoint x="60" y="410" as="sourcePoint" />
+            <mxPoint x="162.42640687119274" y="329.9957287525383" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MZs_MeEJ6j7sGni2RoES-22" value="Course Content for student&lt;br&gt;(KIV)" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="35" y="340" width="120" height="80" as="geometry" />
+        <mxCell id="MZs_MeEJ6j7sGni2RoES-22" value="Login" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="130" y="260" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="MZs_MeEJ6j7sGni2RoES-23" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" edge="1" target="MZs_MeEJ6j7sGni2RoES-22" source="MZs_MeEJ6j7sGni2RoES-3">
+        <mxCell id="MZs_MeEJ6j7sGni2RoES-23" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.917;entryY=0.825;entryDx=0;entryDy=0;exitX=0;exitY=1;exitDx=0;exitDy=0;entryPerimeter=0;" parent="1" edge="1" source="MZs_MeEJ6j7sGni2RoES-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="260" y="380" as="sourcePoint" />
-            <mxPoint x="339.5" y="390" as="targetPoint" />
+            <mxPoint x="287.533593128807" y="299.99572875253796" as="sourcePoint" />
+            <mxPoint x="239.99999999999997" y="274.28" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MZs_MeEJ6j7sGni2RoES-24" value="&amp;lt;&amp;lt;includes&amp;gt;&amp;gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="MZs_MeEJ6j7sGni2RoES-24" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="180" y="390" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="MZs_MeEJ6j7sGni2RoES-32" value="&lt;h1&gt;Register Course&lt;br&gt;&lt;/h1&gt;&lt;div&gt;Pre Condition&lt;/div&gt;&lt;div&gt;Student must pass pre approval in attempt to register course&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Student are able to view&lt;/div&gt;course catalogue containing a list of&lt;br&gt;course, such as professor, department, and pre-requisites.&lt;br&gt;&lt;br&gt;Student are able to register course.&lt;br&gt;&lt;br&gt;Student are able to register&amp;nbsp;alternative course in case of fully filled or cancelled&lt;br&gt;&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="70" y="480" width="190" height="320" as="geometry" />
+        <mxCell id="r6Re-jrNYUQEbt7xdXI9-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="MZs_MeEJ6j7sGni2RoES-32" target="MZs_MeEJ6j7sGni2RoES-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MZs_MeEJ6j7sGni2RoES-32" value="&lt;h1&gt;Register Course&lt;br&gt;&lt;/h1&gt;&lt;div&gt;Pre Condition(s):&lt;/div&gt;&lt;div&gt;The system will check whether or not registration exceeds 10 registered student&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Student are able to view&lt;/div&gt;course catalogue containing a list of&lt;br&gt;course, such as professor, department, and pre-requisites.&lt;br&gt;&lt;br&gt;Student are able to register course.&lt;br&gt;&lt;br&gt;Student are able to register&amp;nbsp;alternative course in case of fully filled or cancelled&lt;br&gt;&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="70" y="460" width="190" height="340" as="geometry" />
         </mxCell>
         <mxCell id="MZs_MeEJ6j7sGni2RoES-33" value="&lt;h1&gt;Edit Course&lt;br&gt;&lt;/h1&gt;&lt;div&gt;For a certain time, student are able to add or drop course&lt;/div&gt;&lt;br&gt;&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="520" y="480" width="190" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="MZs_MeEJ6j7sGni2RoES-34" value="&lt;h1&gt;Pre Approval&lt;/h1&gt;&lt;div&gt;The pre-approval will check whether or not registration exceeds 10 registered student&lt;/div&gt;&lt;div&gt;&lt;br&gt;Happy Day Scenario.&lt;/div&gt;&lt;div&gt;For courses with 10 or less registered students, a new student is granted to register the particular course.&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Exception&lt;/div&gt;&lt;div&gt;For courses with more than 10 registered student, the course will be disabled for student to register.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;br&gt;&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="295" y="480" width="190" height="260" as="geometry" />
-        </mxCell>
         <mxCell id="MZs_MeEJ6j7sGni2RoES-36" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" parent="1" edge="1" target="MZs_MeEJ6j7sGni2RoES-41" source="MZs_MeEJ6j7sGni2RoES-3">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="391" y="288" as="sourcePoint" />
+            <mxPoint x="390" y="380" as="sourcePoint" />
             <mxPoint x="480" y="190" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MZs_MeEJ6j7sGni2RoES-37" value="&amp;lt;&amp;lt;includes&amp;gt;&amp;gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="485" y="280" width="60" height="30" as="geometry" />
+        <mxCell id="MZs_MeEJ6j7sGni2RoES-37" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="460" y="300" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MZs_MeEJ6j7sGni2RoES-38" value="&lt;h1&gt;Post Approval&lt;/h1&gt;&lt;div&gt;The post approval will check whether not not the registered meets a minimum or 3 registered student.&lt;br&gt;&lt;br&gt;Happy Day Scenario.&lt;/div&gt;&lt;div&gt;For courses with 3 or more registered students, the new student registration will be successful.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Exception&lt;/div&gt;&lt;div&gt;For courses with less than 3 registered student, the registration will be unsuccessful.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;br&gt;&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="520" y="610" width="190" height="280" as="geometry" />
@@ -113,7 +95,145 @@
           <mxGeometry x="70" y="850" width="190" height="200" as="geometry" />
         </mxCell>
         <mxCell id="MZs_MeEJ6j7sGni2RoES-41" value="Post Approval" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
-          <mxGeometry x="620" y="170" width="30" height="60" as="geometry" />
+          <mxGeometry x="530" y="210" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="r6Re-jrNYUQEbt7xdXI9-6" value="View Billing" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="340" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="r6Re-jrNYUQEbt7xdXI9-7" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="MZs_MeEJ6j7sGni2RoES-3" target="r6Re-jrNYUQEbt7xdXI9-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="340" as="sourcePoint" />
+            <mxPoint x="410" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="r6Re-jrNYUQEbt7xdXI9-8" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="MZs_MeEJ6j7sGni2RoES-1" target="r6Re-jrNYUQEbt7xdXI9-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="155" y="280" as="sourcePoint" />
+            <mxPoint x="190" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="r6Re-jrNYUQEbt7xdXI9-9" value="&lt;h1&gt;&lt;/h1&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;View Billing&lt;br&gt;&lt;/b&gt;&lt;/span&gt;&lt;br&gt;The student&amp;nbsp; will be able to get the billing required for that particular course.&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;br&gt;&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="520" y="890" width="190" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="r6Re-jrNYUQEbt7xdXI9-12" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" target="MZs_MeEJ6j7sGni2RoES-22">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="298" y="362" as="sourcePoint" />
+            <mxPoint x="250" y="336" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="r6Re-jrNYUQEbt7xdXI9-13" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="130" y="340" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="r6Re-jrNYUQEbt7xdXI9-14" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="250" y="310" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="r6Re-jrNYUQEbt7xdXI9-15" value="View Student Dashboard" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="30" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="r6Re-jrNYUQEbt7xdXI9-16" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="80" y="180" as="sourcePoint" />
+            <mxPoint x="79.5" y="110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="r6Re-jrNYUQEbt7xdXI9-17" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="MZs_MeEJ6j7sGni2RoES-22" target="r6Re-jrNYUQEbt7xdXI9-15">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="150.5" y="270" as="sourcePoint" />
+            <mxPoint x="150" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="r6Re-jrNYUQEbt7xdXI9-18" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="150" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="r6Re-jrNYUQEbt7xdXI9-19" value="Student" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="1350" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="r6Re-jrNYUQEbt7xdXI9-20" value="Register Course" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="1340" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="r6Re-jrNYUQEbt7xdXI9-21" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="r6Re-jrNYUQEbt7xdXI9-19" target="r6Re-jrNYUQEbt7xdXI9-20">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="120" y="1380" as="sourcePoint" />
+            <mxPoint x="160" y="1330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="r6Re-jrNYUQEbt7xdXI9-22" value="View Student Dashboard" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="35" y="1460" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="r6Re-jrNYUQEbt7xdXI9-24" value="Billing System" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="510" y="1350" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="r6Re-jrNYUQEbt7xdXI9-25" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="r6Re-jrNYUQEbt7xdXI9-24">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="1379.5" as="sourcePoint" />
+            <mxPoint x="490" y="1379.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="420" y="1380" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="r6Re-jrNYUQEbt7xdXI9-26" value="Login" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="1460" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="r6Re-jrNYUQEbt7xdXI9-27" value="Professor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="510" y="1600" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="r6Re-jrNYUQEbt7xdXI9-29" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="r6Re-jrNYUQEbt7xdXI9-31" target="r6Re-jrNYUQEbt7xdXI9-27">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="1540" as="sourcePoint" />
+            <mxPoint x="410" y="1490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="r6Re-jrNYUQEbt7xdXI9-30" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="r6Re-jrNYUQEbt7xdXI9-20" target="r6Re-jrNYUQEbt7xdXI9-26">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="1370" as="sourcePoint" />
+            <mxPoint x="370" y="1320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="r6Re-jrNYUQEbt7xdXI9-31" value="View Courses to Teach" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="1590" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="r6Re-jrNYUQEbt7xdXI9-32" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="r6Re-jrNYUQEbt7xdXI9-31">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="310" y="1430" as="sourcePoint" />
+            <mxPoint x="300" y="1540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="r6Re-jrNYUQEbt7xdXI9-33" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="310" y="1550" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="r6Re-jrNYUQEbt7xdXI9-34" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="310" y="1430" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="r6Re-jrNYUQEbt7xdXI9-35" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="r6Re-jrNYUQEbt7xdXI9-19">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="94.5" y="1410" as="sourcePoint" />
+            <mxPoint x="95" y="1460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="r6Re-jrNYUQEbt7xdXI9-36" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="r6Re-jrNYUQEbt7xdXI9-22">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="239" y="1550" as="sourcePoint" />
+            <mxPoint x="239" y="1500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="r6Re-jrNYUQEbt7xdXI9-37" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="170" y="1510" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="r6Re-jrNYUQEbt7xdXI9-39" value="&lt;h1&gt;Register Course&lt;br&gt;&lt;/h1&gt;&lt;div&gt;Pre Condition(s):&lt;/div&gt;&lt;div&gt;The system will check whether or not registration exceeds 10 registered student&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Student are able to view&lt;/div&gt;course catalogue containing a list of&lt;br&gt;course, such as professor, department, and pre-requisites.&lt;br&gt;&lt;br&gt;Student are able to register course.&lt;br&gt;&lt;br&gt;Student are able to register&amp;nbsp;alternative course in case of fully filled or cancelled&lt;br&gt;&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="35" y="1720" width="190" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="r6Re-jrNYUQEbt7xdXI9-40" value="&lt;h1&gt;&lt;/h1&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;View Student dashboard&lt;br&gt;&lt;/b&gt;&lt;/span&gt;&lt;br&gt;The student and professor will be able to access the on-line system to access learning materials and all of the e learning provided for the particular course.&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;br&gt;&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="270" y="1720" width="190" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="r6Re-jrNYUQEbt7xdXI9-41" value="&lt;h1&gt;View Course to Teach&lt;/h1&gt;The professor will be able to access the on-line system to&lt;br&gt;indicate which courses they will be teaching. They will also need to see which&lt;br&gt;students signed up for their course offerings&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;br&gt;&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="520" y="1720" width="190" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="r6Re-jrNYUQEbt7xdXI9-42" value="&lt;h1&gt;&lt;/h1&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;Billing System&lt;br&gt;&lt;/b&gt;&lt;/span&gt;&lt;br&gt;Upon successful registration, the student will be able to get the billing required for that particular course.&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;br&gt;&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="35" y="2060" width="190" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="r6Re-jrNYUQEbt7xdXI9-43" value="&lt;h1&gt;&lt;/h1&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;Login&lt;br&gt;&lt;/b&gt;&lt;/span&gt;&lt;br&gt;Upon successful registration, the student will be able to get the billing required for that particular course.&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;br&gt;&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="270" y="1910" width="190" height="200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
