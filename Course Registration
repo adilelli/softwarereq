@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-22T02:57:18.902Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="XpHpYnQfVTAz6Rb5_OFd" version="22.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-22T03:46:56.352Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="M8B-F2QCLlI7xczIjF8i" version="22.0.6" type="github">
   <diagram name="Page-1" id="f31c993MnNktxt3acmLQ">
     <mxGraphModel dx="954" dy="642" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -229,11 +229,111 @@
         <mxCell id="r6Re-jrNYUQEbt7xdXI9-41" value="&lt;h1&gt;View Course to Teach&lt;/h1&gt;The professor will be able to access the on-line system to&lt;br&gt;indicate which courses they will be teaching. They will also need to see which&lt;br&gt;students signed up for their course offerings&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;br&gt;&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="520" y="1720" width="190" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="r6Re-jrNYUQEbt7xdXI9-42" value="&lt;h1&gt;&lt;/h1&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;Billing System&lt;br&gt;&lt;/b&gt;&lt;/span&gt;&lt;br&gt;Upon successful registration, the student will be able to get the billing required for that particular course.&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;br&gt;&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="35" y="2060" width="190" height="200" as="geometry" />
+        <mxCell id="r6Re-jrNYUQEbt7xdXI9-42" value="&lt;h1&gt;&lt;/h1&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;Billing System&lt;br&gt;&lt;/b&gt;&lt;/span&gt;&lt;br&gt;Upon successful registration, the student will be able to get the billing required for that particular course.&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="35" y="2060" width="190" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="r6Re-jrNYUQEbt7xdXI9-43" value="&lt;h1&gt;&lt;/h1&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;Login&lt;br&gt;&lt;/b&gt;&lt;/span&gt;&lt;br&gt;Upon successful registration, the student will be able to get the billing required for that particular course.&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;br&gt;&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="270" y="1910" width="190" height="200" as="geometry" />
+        <mxCell id="r6Re-jrNYUQEbt7xdXI9-43" value="&lt;h1&gt;&lt;/h1&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;Basic Flow -Login Use Case&lt;br&gt;&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;div&gt;1.This use case begin when the &lt;u&gt;user&lt;/u&gt; enter his &lt;u&gt;id&lt;/u&gt; and &lt;u&gt;password&lt;/u&gt;.&lt;/div&gt;&lt;div&gt;2.The &lt;u&gt;CRS&lt;/u&gt; validates the id and password.&lt;/div&gt;&lt;div&gt;3.The CRS grants &lt;u&gt;authorization&lt;/u&gt; to the user.&lt;/div&gt;&lt;div&gt;4.The use case ends.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Exception&lt;br&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;br&gt;&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="270" y="1910" width="190" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="r6Re-jrNYUQEbt7xdXI9-46" value="loginForm" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="180" y="2215" width="100" height="495" as="geometry" />
+        </mxCell>
+        <mxCell id="r6Re-jrNYUQEbt7xdXI9-47" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlActor;" vertex="1" parent="1">
+          <mxGeometry x="80" y="2250" width="20" height="470" as="geometry" />
+        </mxCell>
+        <mxCell id="r6Re-jrNYUQEbt7xdXI9-48" value="&lt;h1&gt;Possible Objects&lt;/h1&gt;&lt;p&gt;1.Login form - to accept id and password.&lt;/p&gt;&lt;p&gt;2.UserDB - to validate id an password.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="430" y="2215" width="240" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="r6Re-jrNYUQEbt7xdXI9-50" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="95" y="2350" as="sourcePoint" />
+            <mxPoint x="225" y="2350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="r6Re-jrNYUQEbt7xdXI9-51" value="1. enters id &lt;br&gt;and password" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="r6Re-jrNYUQEbt7xdXI9-50">
+          <mxGeometry x="-0.0375" y="-5" relative="1" as="geometry">
+            <mxPoint x="-8" y="15" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="r6Re-jrNYUQEbt7xdXI9-53" value="userDB" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="310" y="2215" width="100" height="495" as="geometry" />
+        </mxCell>
+        <mxCell id="r6Re-jrNYUQEbt7xdXI9-55" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="230" y="2400" as="sourcePoint" />
+            <mxPoint x="360" y="2400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="r6Re-jrNYUQEbt7xdXI9-56" value="2. validates id&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;and password" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="r6Re-jrNYUQEbt7xdXI9-55">
+          <mxGeometry x="0.1" y="6" relative="1" as="geometry">
+            <mxPoint x="-2" y="6" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="r6Re-jrNYUQEbt7xdXI9-59" value="&lt;h1&gt;&lt;/h1&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;Basic Flow -Login Use Case&lt;br&gt;&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;div&gt;1.This use case begin when the &lt;u&gt;user&lt;/u&gt; enter his &lt;u&gt;id&lt;/u&gt; and &lt;u&gt;password&lt;/u&gt;.&lt;/div&gt;&lt;div&gt;2.The &lt;u&gt;CRS&lt;/u&gt; validates the id and password.&lt;/div&gt;&lt;div&gt;3.The CRS grants &lt;u&gt;authorization&lt;/u&gt; to the user.&lt;/div&gt;&lt;div&gt;4.The use case ends.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Exception Flow - Login Use Case&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;E1&lt;/b&gt;: Invalid id and Password&lt;br&gt;1. The CRS gives another attempts [&lt;b&gt;R1: Max Attempt&lt;/b&gt;]&lt;/div&gt;&lt;div&gt;2. If all attempts fail, this use case ends&lt;br&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Rules and Constraints&lt;/div&gt;&lt;div&gt;&lt;b&gt;R1&lt;/b&gt;: Max Attempt is 3&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;br&gt;&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="660" y="2215" width="190" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="r6Re-jrNYUQEbt7xdXI9-60" value="loginForm" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="2580" width="160" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="r6Re-jrNYUQEbt7xdXI9-61" value="+ field: type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="r6Re-jrNYUQEbt7xdXI9-60">
+          <mxGeometry y="26" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="r6Re-jrNYUQEbt7xdXI9-62" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="r6Re-jrNYUQEbt7xdXI9-60">
+          <mxGeometry y="52" width="160" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="r6Re-jrNYUQEbt7xdXI9-63" value="+ enterId&amp;amp;Pass()&lt;br&gt;+ reattempt()" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="r6Re-jrNYUQEbt7xdXI9-60">
+          <mxGeometry y="60" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="r6Re-jrNYUQEbt7xdXI9-64" value="UserDB" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="2580" width="160" height="86" as="geometry" />
+        </mxCell>
+        <mxCell id="r6Re-jrNYUQEbt7xdXI9-65" value="+ field: type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="r6Re-jrNYUQEbt7xdXI9-64">
+          <mxGeometry y="26" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="r6Re-jrNYUQEbt7xdXI9-66" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="r6Re-jrNYUQEbt7xdXI9-64">
+          <mxGeometry y="52" width="160" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="r6Re-jrNYUQEbt7xdXI9-67" value="+ validateId&amp;amp;Pass()" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="r6Re-jrNYUQEbt7xdXI9-64">
+          <mxGeometry y="60" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="r6Re-jrNYUQEbt7xdXI9-68" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="1">
+          <mxGeometry x="570" y="2620" width="100" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="r6Re-jrNYUQEbt7xdXI9-69" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="360" y="2444.5" as="sourcePoint" />
+            <mxPoint x="90" y="2444.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="r6Re-jrNYUQEbt7xdXI9-70" value="Authorization = Grant" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="r6Re-jrNYUQEbt7xdXI9-69">
+          <mxGeometry x="0.163" y="-1" relative="1" as="geometry">
+            <mxPoint x="27" y="2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="r6Re-jrNYUQEbt7xdXI9-71" value="E1" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="70" y="2480" width="310" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="r6Re-jrNYUQEbt7xdXI9-73" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="230" y="2520" as="sourcePoint" />
+            <mxPoint x="360" y="2520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="r6Re-jrNYUQEbt7xdXI9-74" value="2. validates id&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;and password" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="r6Re-jrNYUQEbt7xdXI9-73">
+          <mxGeometry x="0.1" y="6" relative="1" as="geometry">
+            <mxPoint x="-2" y="6" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="r6Re-jrNYUQEbt7xdXI9-77" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" edge="1" parent="1" target="r6Re-jrNYUQEbt7xdXI9-46">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="360" y="2580" as="sourcePoint" />
+            <mxPoint x="370" y="2530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="r6Re-jrNYUQEbt7xdXI9-78" value="3. Login failed - &lt;br&gt;Reattempt" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="r6Re-jrNYUQEbt7xdXI9-77">
+          <mxGeometry x="0.1" y="6" relative="1" as="geometry">
+            <mxPoint x="12" y="-6" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
