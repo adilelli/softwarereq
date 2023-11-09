@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2023-11-09T11:44:46.917Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" version="22.1.0" etag="N2UdLMfWRL46YiL95fMt" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-09T11:45:44.266Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="APErFKlJCGy-_54AXXA8" version="22.1.0" type="github">
   <diagram name="Page-1" id="390q9lgh590y4yPo8PE3">
-    <mxGraphModel>
+    <mxGraphModel dx="954" dy="642" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="pbpH6n1Q9EobZEC__Q27-1" value="1. This use case begins when the customer selects a drinks brand. (SRS_REQ_101)&#xa;2. The VMCS checks the number of the selected drinks brand. (SRS_REQ_102). If the selected drinks brand is unavailable [E1: Selected Drinks Brand is Unavailable].&#xa;3. The VMCS displays the price of the selected drinks brand. (SRS_REQ_103)&#xa;4. The customer inserts coins into the vending machine [R1: Coin Value]. (SRS_REQ_104). If the coin value is invalid [E2: Coin Value is Invalid].&#xa;5. The VMCS displays the accumulated coins. (SRS_REQ_105)&#xa;6. The VMCS checks if the accumulated coins is enough or not. (SRS_REQ_106). If the accumulated coins is insufficient [E3: Accumulated Coins is Insufficient].&#xa;7. The VMCS dispenses the selected drinks brand. (SRS_REQ_107)&#xa;8. The VMCS checks if any change should be sent to the customer. (SRS_REQ_108)&#xa;9. The VMCS checks if it is possible to pay the customer the appropriate change. (SRS_REQ_109). If the change is insufficient [E4: Change is Insufficient].&#xa;10. The VMCS dispenses the change. (SRS_REQ_110)&#xa;11. If the customer terminates the transaction [A1: Transaction is Terminated].&#xa;12. This use case ends." style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="100" y="450" width="560" height="250" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
