@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-11-17T08:50:55.198Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Safari/605.1.15" etag="z7jLfYjeeKcBK3KE-K16" version="22.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-17T10:30:29.759Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Safari/605.1.15" etag="z5nlgDu4p_daofiKh1Y-" version="22.1.2" type="github">
   <diagram name="Page-1" id="f31c993MnNktxt3acmLQ">
-    <mxGraphModel dx="1195" dy="689" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1793" dy="1034" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -57,9 +57,6 @@
         </mxCell>
         <mxCell id="r6Re-jrNYUQEbt7xdXI9-47" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlActor;" parent="1" vertex="1">
           <mxGeometry x="80" y="2250" width="20" height="660" as="geometry" />
-        </mxCell>
-        <mxCell id="r6Re-jrNYUQEbt7xdXI9-48" value="&lt;h1&gt;Possible Objects&lt;/h1&gt;&lt;p&gt;1.Login form - to accept id and password.&lt;/p&gt;&lt;p&gt;2.UserDB - to validate id an password.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="850" y="2260" width="240" height="120" as="geometry" />
         </mxCell>
         <mxCell id="r6Re-jrNYUQEbt7xdXI9-50" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
@@ -346,7 +343,7 @@
         </mxCell>
         <mxCell id="HRDd_VB4GsDUX1scdBsD-33" value="Verify no. of data&lt;br&gt;&amp;nbsp;recorded &amp;lt; threshold" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="HRDd_VB4GsDUX1scdBsD-32" vertex="1" connectable="0">
           <mxGeometry x="-0.0375" y="-5" relative="1" as="geometry">
-            <mxPoint x="65" y="-2" as="offset" />
+            <mxPoint x="-125" y="8" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="HRDd_VB4GsDUX1scdBsD-34" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" parent="1" edge="1">
@@ -361,7 +358,7 @@
         </mxCell>
         <mxCell id="HRDd_VB4GsDUX1scdBsD-35" value="Data is saved" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="HRDd_VB4GsDUX1scdBsD-34" vertex="1" connectable="0">
           <mxGeometry x="-0.0375" y="-5" relative="1" as="geometry">
-            <mxPoint x="55" y="-9" as="offset" />
+            <mxPoint x="-15" y="1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="HRDd_VB4GsDUX1scdBsD-36" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" parent="1" edge="1">
@@ -387,7 +384,7 @@
         </mxCell>
         <mxCell id="HRDd_VB4GsDUX1scdBsD-40" value="Check no. of &lt;br&gt;data recorded" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="HRDd_VB4GsDUX1scdBsD-39" vertex="1" connectable="0">
           <mxGeometry x="-0.0375" y="-5" relative="1" as="geometry">
-            <mxPoint x="115" y="15" as="offset" />
+            <mxPoint x="45" y="5" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="HRDd_VB4GsDUX1scdBsD-41" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
@@ -450,7 +447,7 @@
           <mxGeometry x="890" y="1360" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HRDd_VB4GsDUX1scdBsD-66" value="Take snapshot" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1120" y="1170" width="120" height="80" as="geometry" />
+          <mxGeometry x="1070" y="1120" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="HRDd_VB4GsDUX1scdBsD-67" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" source="HRDd_VB4GsDUX1scdBsD-65" target="HRDd_VB4GsDUX1scdBsD-66" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -459,10 +456,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="HRDd_VB4GsDUX1scdBsD-68" value="Draw" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1290" y="1170" width="120" height="80" as="geometry" />
+          <mxGeometry x="1260" y="1120" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="HRDd_VB4GsDUX1scdBsD-69" value="Create new room" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="960" y="1170" width="120" height="80" as="geometry" />
+          <mxGeometry x="900" y="1120" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="HRDd_VB4GsDUX1scdBsD-70" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" source="HRDd_VB4GsDUX1scdBsD-65" target="HRDd_VB4GsDUX1scdBsD-68" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -471,12 +468,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="HRDd_VB4GsDUX1scdBsD-71" value="&lt;h1&gt;&lt;/h1&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;Create New Room&lt;br&gt;&lt;/b&gt;&lt;/span&gt;1. The use case begins with the user press the &#39;CREATE NEW ROOM&#39; button at the main menu.&amp;nbsp;(SRS_REQ_101)&lt;br&gt;2. The RTDA will assign a random empty room id and random user id to the user.&amp;nbsp;(SRS_REQ_102) [E1: Assign Error]&lt;br&gt;3. The RTDA will direct the user to the Drawing room.&amp;nbsp;(SRS_REQ_103)&lt;br&gt;4. The use case ends.&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;E1: Assign Error&lt;/div&gt;&lt;div&gt;1. The RTDA will display a message at below the &#39;CREATE NEW ROOM&#39; button &#39;Error creating a room: Please Try Again&#39;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Post Condition:&lt;/div&gt;&lt;div&gt;The User is joined into a room.&lt;/div&gt;&lt;br&gt;&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="930" y="1520" width="230" height="320" as="geometry" />
+          <mxGeometry x="890" y="1470" width="230" height="300" as="geometry" />
         </mxCell>
-        <mxCell id="HRDd_VB4GsDUX1scdBsD-72" value="&lt;h1&gt;Enter Existing Room&lt;/h1&gt;1. The use case begins with the user press the &#39;ENTER EXISTING ROOM&#39; button at the main menu.&amp;nbsp;(SRS_REQ_)&lt;br&gt;2. The RTDA will direct the user to the Enter Existing Room Page.(SRS_REQ_)&lt;br&gt;3. The user will enter a room id.(SRS_REQ_)&lt;br&gt;4.&amp;nbsp;The RTDA will assign a random user id to the user.&amp;nbsp;(SRS_REQ_102) [E1: Assign Error]&lt;br&gt;5. The use case ends.&lt;br&gt;&lt;br&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;E1: Assign Error&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;&amp;nbsp;1. The RTDA will display a message at below the &#39;CREATE NEW ROOM&#39; button &#39;Error creating a room: Please Try Again&#39;&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;Post Condition:&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;The User is joined into a room.&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;br&gt;&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1230" y="1520" width="250" height="300" as="geometry" />
+        <mxCell id="HRDd_VB4GsDUX1scdBsD-72" value="&lt;h1&gt;Enter Existing Room&lt;/h1&gt;1. The use case begins with the user press the &#39;ENTER EXISTING ROOM&#39; button at the main menu.&amp;nbsp;(SRS_REQ_)&lt;br&gt;2. The RTDA will direct the user to the Enter Existing Room Page.(SRS_REQ_)&lt;br&gt;3. The user will enter a room id.(SRS_REQ_)&lt;br&gt;4. The RTDA will validate the room id. [E1: Room ID Invalid]&lt;br&gt;4.&amp;nbsp;The RTDA will assign a random user id to the user.&amp;nbsp;(SRS_REQ_102) [E2: Assign Error]&lt;br&gt;5. The use case ends.&lt;br&gt;&lt;br&gt;E1: Room Id Invalid&lt;br&gt;1.&amp;nbsp;The RTDA will display a message &#39;INVALID ID&#39;.&lt;br&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;E2: Assign Error&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;&amp;nbsp;1. The RTDA will display a message at below the &#39;CREATE NEW ROOM&#39; button &#39;Error creating a room: Please Try Again&#39;&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;Post Condition:&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;The User is joined into a room.&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;br&gt;&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1150" y="1360" width="250" height="370" as="geometry" />
         </mxCell>
-        <mxCell id="HRDd_VB4GsDUX1scdBsD-73" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.083;entryY=0.225;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="HRDd_VB4GsDUX1scdBsD-65" target="HRDd_VB4GsDUX1scdBsD-69" edge="1">
+        <mxCell id="HRDd_VB4GsDUX1scdBsD-73" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" parent="1" source="HRDd_VB4GsDUX1scdBsD-65" target="HRDd_VB4GsDUX1scdBsD-69" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="930" y="1400" as="sourcePoint" />
             <mxPoint x="1060" y="1400" as="targetPoint" />
@@ -489,7 +486,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="HRDd_VB4GsDUX1scdBsD-75" value="Enter existing room" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1460" y="1170" width="120" height="80" as="geometry" />
+          <mxGeometry x="1450" y="1120" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="DvVHrF6LboENH1gC6SK8-1" value="viewDrawing" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1010" y="180" width="120" height="70" as="geometry" />
@@ -553,14 +550,521 @@
         <mxCell id="DvVHrF6LboENH1gC6SK8-19" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;QUIT&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1618.75" y="445" width="32.5" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="DvVHrF6LboENH1gC6SK8-22" value="&lt;h1&gt;&lt;/h1&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;Draw&lt;br&gt;&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;Post Condition:&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;The User is joined into a room.&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;&lt;br&gt;&lt;/div&gt;1. The use case begins with the user A press down the mouse key or the touchpad.&amp;nbsp;(SRS_REQ_101)&lt;br&gt;2. The drawing will be made with the movement of the user&#39;s left click. (SRS_REQ_102) [A1: Erase]&lt;br&gt;[A2: Quit].&lt;br&gt;3. The RTDA will collect the coordinate of the user&#39;s mouse, user&#39;s id to send it to the WebSocket server.&amp;nbsp;(SRS_REQ_103)&lt;br&gt;4. The other users who are in the same room will be able to see changes made by the user A&#39;s drawing.(SRS_REQ_104)&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;A1: Erase&lt;br&gt;1.The user press the &#39;ERASE&#39; button.&amp;nbsp;&lt;br&gt;2. Drawings will be erased with the movement o the user&#39;s left click.&lt;br&gt;3. The Use case continues.&lt;br&gt;&lt;br&gt;A2: Quit&lt;br&gt;1. The user press the &#39;QUIT&#39; button.&lt;br&gt;2. The Menu screen will be loaded upon exiting the drawing room.&lt;br&gt;&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="930" y="1830" width="570" height="350" as="geometry" />
+        <mxCell id="DvVHrF6LboENH1gC6SK8-22" value="&lt;h1&gt;&lt;/h1&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;Draw&lt;br&gt;&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;Post Condition:&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;The User is joined into a room.&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;&lt;br&gt;&lt;/div&gt;1. The use case begins with the user A press down the mouse key or the touchpad and default setting is at DRAW mode.&amp;nbsp;(SRS_REQ_101)&lt;br&gt;2. The drawing will be made with the movement of the user&#39;s left click. (SRS_REQ_102) [A1: ERASE mode]&lt;br&gt;[A2: Quit].&lt;br&gt;3. The RTDA will collect the coordinate of the user&#39;s mouse, user&#39;s id to send it to the WebSocket server.&amp;nbsp;(SRS_REQ_103)&lt;br&gt;4. The WebSocket server will send the coordinate data to all of the user(s) in that room.&lt;br&gt;5. The other users who are in the same room will be able to see changes made by the user A&#39;s drawing.(SRS_REQ_104)&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;A1: ERASE Mode&lt;br&gt;1.The user press the &#39;ERASE&#39; button.&amp;nbsp;&lt;br&gt;2. The RTDA will change from draw mode to erase mode.&lt;br&gt;2. Drawings will be erased with the movement o the user&#39;s left click.&lt;br&gt;3. The Use case continues.&lt;br&gt;&lt;br&gt;A2: Quit&lt;br&gt;1. The user press the &#39;QUIT&#39; button.&lt;br&gt;2. The Menu screen will be loaded upon exiting the drawing room.&lt;br&gt;&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="890" y="1830" width="790" height="320" as="geometry" />
         </mxCell>
-        <mxCell id="DvVHrF6LboENH1gC6SK8-23" value="&lt;h1&gt;&lt;/h1&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;Take Snapshot&lt;br&gt;&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;Post Condition:&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;The User is joined into a room.&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;&lt;br&gt;&lt;/div&gt;1. The use case begins with the user A press the &#39;SNAP&#39; button. (SRS_REQ_101)&lt;br&gt;2. The drawing will be snapshot and will be saved in an image file.(SRS_REQ_102) [A1: Erase]&lt;br&gt;[A2: Quit].&lt;br&gt;3. The RTDA will display a message &#39;Screenshot saved successfully&#39;.(SRS_REQ_103)&lt;br&gt;4. The use case ends.&amp;nbsp;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;br&gt;&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1531.25" y="1520" width="140" height="380" as="geometry" />
+        <mxCell id="DvVHrF6LboENH1gC6SK8-23" value="&lt;h1&gt;&lt;/h1&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;Take Snapshot&lt;br&gt;&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;Post Condition:&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;The User is joined into a room.&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;&lt;br&gt;&lt;/div&gt;1. The use case begins with the user A press the &#39;SNAP&#39; button. (SRS_REQ_101)&lt;br&gt;2. The drawing will be snapshot and will be saved in an image file.(SRS_REQ_102)&amp;nbsp;&lt;br&gt;3. The RTDA will display a message &#39;Screenshot saved successfully&#39;.(SRS_REQ_103)&lt;br&gt;4. The use case ends. &amp;nbsp;&amp;nbsp;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;br&gt;&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1440" y="1360" width="240" height="300" as="geometry" />
         </mxCell>
         <mxCell id="DvVHrF6LboENH1gC6SK8-24" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;SNAP&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1560" y="445" width="32.5" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="DvVHrF6LboENH1gC6SK8-25" value="&amp;lt;&amp;lt;boundary&amp;gt;&amp;gt;&lt;br&gt;menu" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="990" y="2215" width="100" height="1385" as="geometry" />
+        </mxCell>
+        <mxCell id="DvVHrF6LboENH1gC6SK8-26" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="DvVHrF6LboENH1gC6SK8-25">
+          <mxGeometry x="45" y="295" width="10" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="DvVHrF6LboENH1gC6SK8-27" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlActor;" vertex="1" parent="1">
+          <mxGeometry x="890" y="2250" width="20" height="1350" as="geometry" />
+        </mxCell>
+        <mxCell id="DvVHrF6LboENH1gC6SK8-28" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="905" y="2520" as="sourcePoint" />
+            <mxPoint x="1035" y="2520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DvVHrF6LboENH1gC6SK8-29" value="Press &#39;ENTER&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;EXISTING ROOM&#39;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="DvVHrF6LboENH1gC6SK8-28">
+          <mxGeometry x="-0.0375" y="-5" relative="1" as="geometry">
+            <mxPoint x="-8" y="15" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DvVHrF6LboENH1gC6SK8-30" value="&amp;lt;&amp;lt;boundary&amp;gt;&amp;gt;&lt;br&gt;enterExistingRoom" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="1110" y="2215" width="110" height="1385" as="geometry" />
+        </mxCell>
+        <mxCell id="DvVHrF6LboENH1gC6SK8-31" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="DvVHrF6LboENH1gC6SK8-30">
+          <mxGeometry x="50" y="295" width="10" height="115" as="geometry" />
+        </mxCell>
+        <mxCell id="DvVHrF6LboENH1gC6SK8-32" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="1040" y="2520" as="sourcePoint" />
+            <mxPoint x="1170" y="2520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DvVHrF6LboENH1gC6SK8-34" value="E1" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="235" y="3160" width="310" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="DvVHrF6LboENH1gC6SK8-35" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="395" y="3180" as="sourcePoint" />
+            <mxPoint x="525" y="3180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DvVHrF6LboENH1gC6SK8-36" value="2. validates id&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;and password" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="DvVHrF6LboENH1gC6SK8-35">
+          <mxGeometry x="0.1" y="6" relative="1" as="geometry">
+            <mxPoint x="-2" y="6" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DvVHrF6LboENH1gC6SK8-37" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="525" y="3220" as="sourcePoint" />
+            <mxPoint x="394.5" y="3220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DvVHrF6LboENH1gC6SK8-38" value="3. Login failed - &lt;br&gt;Reattempt" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="DvVHrF6LboENH1gC6SK8-37">
+          <mxGeometry x="0.1" y="6" relative="1" as="geometry">
+            <mxPoint x="12" y="-6" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DvVHrF6LboENH1gC6SK8-41" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" edge="1" parent="1" target="DvVHrF6LboENH1gC6SK8-25">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="900" y="2310" as="sourcePoint" />
+            <mxPoint x="1050" y="2310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DvVHrF6LboENH1gC6SK8-42" value="Press &#39;CREATE&lt;br&gt;NEW ROOM&#39;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="DvVHrF6LboENH1gC6SK8-41">
+          <mxGeometry x="-0.0375" y="-5" relative="1" as="geometry">
+            <mxPoint x="-7" y="-5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DvVHrF6LboENH1gC6SK8-43" value="&amp;lt;&amp;lt;boundary&amp;gt;&amp;gt;&lt;br&gt;drawingRoom" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="1230" y="2215" width="120" height="1385" as="geometry" />
+        </mxCell>
+        <mxCell id="DvVHrF6LboENH1gC6SK8-105" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="DvVHrF6LboENH1gC6SK8-43">
+          <mxGeometry x="55" y="675" width="10" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="DvVHrF6LboENH1gC6SK8-103" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" edge="1" parent="DvVHrF6LboENH1gC6SK8-43">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="64.99999999999996" y="685" as="sourcePoint" />
+            <mxPoint x="64.99999999999996" y="715" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="134.99999999999994" y="685" />
+              <mxPoint x="134.99999999999994" y="715" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DvVHrF6LboENH1gC6SK8-104" value="Drawing will&lt;br&gt;&amp;nbsp;be made" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="DvVHrF6LboENH1gC6SK8-103">
+          <mxGeometry x="-0.0375" y="-5" relative="1" as="geometry">
+            <mxPoint x="5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DvVHrF6LboENH1gC6SK8-111" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" edge="1" parent="DvVHrF6LboENH1gC6SK8-43" source="DvVHrF6LboENH1gC6SK8-113">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="185" y="795" as="sourcePoint" />
+            <mxPoint x="60" y="795" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DvVHrF6LboENH1gC6SK8-112" value="Send coordinate data &lt;br&gt;to all user(s) &lt;br&gt;in that room" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="DvVHrF6LboENH1gC6SK8-111">
+          <mxGeometry x="-0.0375" y="-5" relative="1" as="geometry">
+            <mxPoint x="2" y="5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DvVHrF6LboENH1gC6SK8-141" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="DvVHrF6LboENH1gC6SK8-43">
+          <mxGeometry x="55" y="920" width="10" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="DvVHrF6LboENH1gC6SK8-142" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" edge="1" parent="DvVHrF6LboENH1gC6SK8-43">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="65" y="930" as="sourcePoint" />
+            <mxPoint x="65" y="960" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="135" y="930" />
+              <mxPoint x="135" y="960" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DvVHrF6LboENH1gC6SK8-143" value="Erase will&lt;br&gt;&amp;nbsp;be made" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="DvVHrF6LboENH1gC6SK8-142">
+          <mxGeometry x="-0.0375" y="-5" relative="1" as="geometry">
+            <mxPoint x="5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DvVHrF6LboENH1gC6SK8-144" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" edge="1" parent="DvVHrF6LboENH1gC6SK8-43" source="DvVHrF6LboENH1gC6SK8-146">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="185" y="1040" as="sourcePoint" />
+            <mxPoint x="60" y="1040" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DvVHrF6LboENH1gC6SK8-145" value="Send coordinate data &lt;br&gt;to all user(s) &lt;br&gt;in that room" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="DvVHrF6LboENH1gC6SK8-144">
+          <mxGeometry x="-0.0375" y="-5" relative="1" as="geometry">
+            <mxPoint x="2" y="5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DvVHrF6LboENH1gC6SK8-146" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="DvVHrF6LboENH1gC6SK8-43">
+          <mxGeometry x="195" y="960" width="10" height="92" as="geometry" />
+        </mxCell>
+        <mxCell id="DvVHrF6LboENH1gC6SK8-147" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" edge="1" parent="DvVHrF6LboENH1gC6SK8-43">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="55.5" y="980" as="sourcePoint" />
+            <mxPoint x="195" y="980" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DvVHrF6LboENH1gC6SK8-148" value="Collect coordinate&amp;nbsp;&lt;br&gt;of user&#39;s mouse&lt;br&gt;&amp;nbsp;position" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="DvVHrF6LboENH1gC6SK8-147">
+          <mxGeometry x="-0.3057" y="-1" relative="1" as="geometry">
+            <mxPoint x="12" y="4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DvVHrF6LboENH1gC6SK8-149" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" edge="1" parent="DvVHrF6LboENH1gC6SK8-43">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="-330.00263157894756" y="930" as="sourcePoint" />
+            <mxPoint x="65" y="930" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DvVHrF6LboENH1gC6SK8-150" value="user A press down the left&lt;br&gt;mouse key&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="DvVHrF6LboENH1gC6SK8-149">
+          <mxGeometry x="-0.0375" y="-5" relative="1" as="geometry">
+            <mxPoint x="-7" y="-5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DvVHrF6LboENH1gC6SK8-151" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" edge="1" parent="DvVHrF6LboENH1gC6SK8-43">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="69.95000000000005" y="1040" as="sourcePoint" />
+            <mxPoint x="-330" y="1040" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DvVHrF6LboENH1gC6SK8-152" value="All user(s) inside the &lt;br&gt;drawing room can &lt;br&gt;see user&#39;s A erasing" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="DvVHrF6LboENH1gC6SK8-151">
+          <mxGeometry x="-0.0375" y="-5" relative="1" as="geometry">
+            <mxPoint x="-2" y="5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DvVHrF6LboENH1gC6SK8-158" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="DvVHrF6LboENH1gC6SK8-43">
+          <mxGeometry x="55" y="870" width="10" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="DvVHrF6LboENH1gC6SK8-115" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" edge="1" parent="DvVHrF6LboENH1gC6SK8-43">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="-330.00263157894756" y="882.4699999999998" as="sourcePoint" />
+            <mxPoint x="60" y="882" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DvVHrF6LboENH1gC6SK8-116" value="user press on &#39;ERASE&#39; button." style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="DvVHrF6LboENH1gC6SK8-115">
+          <mxGeometry x="-0.0375" y="-5" relative="1" as="geometry">
+            <mxPoint x="-7" y="-5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DvVHrF6LboENH1gC6SK8-44" value="&amp;lt;&amp;lt;services&amp;gt;&amp;gt;&lt;br&gt;websocketServer" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="1370" y="2215" width="120" height="1385" as="geometry" />
+        </mxCell>
+        <mxCell id="DvVHrF6LboENH1gC6SK8-45" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="DvVHrF6LboENH1gC6SK8-44">
+          <mxGeometry x="55" y="85" width="10" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="DvVHrF6LboENH1gC6SK8-113" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="DvVHrF6LboENH1gC6SK8-44">
+          <mxGeometry x="55" y="715" width="10" height="92" as="geometry" />
+        </mxCell>
+        <mxCell id="DvVHrF6LboENH1gC6SK8-46" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="1430" y="2350.5" as="sourcePoint" />
+            <mxPoint x="1290" y="2350.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DvVHrF6LboENH1gC6SK8-47" value="Joined to &lt;br&gt;drawing room" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="DvVHrF6LboENH1gC6SK8-46">
+          <mxGeometry x="-0.0375" y="-5" relative="1" as="geometry">
+            <mxPoint x="-10" y="5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DvVHrF6LboENH1gC6SK8-48" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" edge="1" parent="1" source="DvVHrF6LboENH1gC6SK8-25">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="1290" y="2310" as="sourcePoint" />
+            <mxPoint x="1430" y="2310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DvVHrF6LboENH1gC6SK8-49" value="Assign a random empty room id and random user id" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="DvVHrF6LboENH1gC6SK8-48">
+          <mxGeometry x="-0.0375" y="-5" relative="1" as="geometry">
+            <mxPoint x="-7" y="-5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DvVHrF6LboENH1gC6SK8-50" value="E1" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="880" y="2390.5" width="570" height="69.5" as="geometry" />
+        </mxCell>
+        <mxCell id="DvVHrF6LboENH1gC6SK8-51" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="1430" y="2435.43" as="sourcePoint" />
+            <mxPoint x="1290" y="2435.43" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DvVHrF6LboENH1gC6SK8-52" value="Assign Fail" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="DvVHrF6LboENH1gC6SK8-51">
+          <mxGeometry x="-0.0375" y="-5" relative="1" as="geometry">
+            <mxPoint x="-10" y="5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DvVHrF6LboENH1gC6SK8-53" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="1289.9999999999995" y="2349.9999999999995" as="sourcePoint" />
+            <mxPoint x="900" y="2350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DvVHrF6LboENH1gC6SK8-54" value="Display Drawing Room" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="DvVHrF6LboENH1gC6SK8-53">
+          <mxGeometry x="-0.0375" y="-5" relative="1" as="geometry">
+            <mxPoint x="-7" y="-5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DvVHrF6LboENH1gC6SK8-55" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="1290" y="2435.5" as="sourcePoint" />
+            <mxPoint x="899.5" y="2435.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DvVHrF6LboENH1gC6SK8-56" value="&#39;Error creating a room:&lt;br&gt;&amp;nbsp;Please Try Again&#39;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="DvVHrF6LboENH1gC6SK8-55">
+          <mxGeometry x="-0.0375" y="-5" relative="1" as="geometry">
+            <mxPoint x="-2" y="5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DvVHrF6LboENH1gC6SK8-59" value="&amp;lt;&amp;lt;services&amp;gt;&amp;gt;&lt;br&gt;takeSnapshot" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="1520" y="2215" width="100" height="1385" as="geometry" />
+        </mxCell>
+        <mxCell id="DvVHrF6LboENH1gC6SK8-176" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="DvVHrF6LboENH1gC6SK8-59">
+          <mxGeometry x="45" y="1245" width="10" height="115" as="geometry" />
+        </mxCell>
+        <mxCell id="DvVHrF6LboENH1gC6SK8-73" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="1170" y="2570" as="sourcePoint" />
+            <mxPoint x="900" y="2570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DvVHrF6LboENH1gC6SK8-74" value="Display Enter Existing Room&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="DvVHrF6LboENH1gC6SK8-73">
+          <mxGeometry x="-0.0375" y="-5" relative="1" as="geometry">
+            <mxPoint x="-10" y="5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DvVHrF6LboENH1gC6SK8-76" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" edge="1" parent="1" target="DvVHrF6LboENH1gC6SK8-30">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="900" y="2610" as="sourcePoint" />
+            <mxPoint x="1030" y="2610" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DvVHrF6LboENH1gC6SK8-77" value="Enter Room id" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="DvVHrF6LboENH1gC6SK8-76">
+          <mxGeometry x="-0.3057" y="-1" relative="1" as="geometry">
+            <mxPoint x="28" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DvVHrF6LboENH1gC6SK8-79" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" edge="1" parent="1" source="DvVHrF6LboENH1gC6SK8-78">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="1160" y="2610" as="sourcePoint" />
+            <mxPoint x="1430" y="2610" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DvVHrF6LboENH1gC6SK8-81" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" edge="1" parent="1" target="DvVHrF6LboENH1gC6SK8-78">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="1160" y="2610" as="sourcePoint" />
+            <mxPoint x="1430" y="2610" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DvVHrF6LboENH1gC6SK8-82" value="Verify Room Id &amp;amp; Assign Random UserId" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="DvVHrF6LboENH1gC6SK8-81">
+          <mxGeometry x="-0.3057" y="-1" relative="1" as="geometry">
+            <mxPoint x="28" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DvVHrF6LboENH1gC6SK8-78" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="1425" y="2590" width="10" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="DvVHrF6LboENH1gC6SK8-87" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="1289.9999999999995" y="2639.9999999999995" as="sourcePoint" />
+            <mxPoint x="900" y="2640" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DvVHrF6LboENH1gC6SK8-88" value="Display Drawing Room" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="DvVHrF6LboENH1gC6SK8-87">
+          <mxGeometry x="-0.0375" y="-5" relative="1" as="geometry">
+            <mxPoint x="-7" y="-5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DvVHrF6LboENH1gC6SK8-90" value="E1" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="880" y="2670" width="570" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DvVHrF6LboENH1gC6SK8-91" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" edge="1" parent="1" target="DvVHrF6LboENH1gC6SK8-30">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="1430" y="2714.93" as="sourcePoint" />
+            <mxPoint x="1290" y="2714.93" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DvVHrF6LboENH1gC6SK8-92" value="Room Id Invalid" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="DvVHrF6LboENH1gC6SK8-91">
+          <mxGeometry x="-0.0375" y="-5" relative="1" as="geometry">
+            <mxPoint x="-10" y="5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DvVHrF6LboENH1gC6SK8-93" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="1170" y="2715" as="sourcePoint" />
+            <mxPoint x="899.5" y="2715" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DvVHrF6LboENH1gC6SK8-94" value="Message: &#39;Invalid Id&#39;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="DvVHrF6LboENH1gC6SK8-93">
+          <mxGeometry x="-0.0375" y="-5" relative="1" as="geometry">
+            <mxPoint x="-2" y="5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DvVHrF6LboENH1gC6SK8-95" value="E2" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="880" y="2770" width="570" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="DvVHrF6LboENH1gC6SK8-96" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="1430" y="2814.93" as="sourcePoint" />
+            <mxPoint x="1164.4473684210525" y="2814.9299999999994" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DvVHrF6LboENH1gC6SK8-97" value="Assign Fail" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="DvVHrF6LboENH1gC6SK8-96">
+          <mxGeometry x="-0.0375" y="-5" relative="1" as="geometry">
+            <mxPoint x="-10" y="5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DvVHrF6LboENH1gC6SK8-98" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="1164.5" y="2814.41" as="sourcePoint" />
+            <mxPoint x="900" y="2814.41" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DvVHrF6LboENH1gC6SK8-99" value="Message: &#39;Error creating a room:&lt;br&gt;&amp;nbsp;Please Try Again&#39;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="DvVHrF6LboENH1gC6SK8-98">
+          <mxGeometry x="-0.0375" y="-5" relative="1" as="geometry">
+            <mxPoint x="-2" y="5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DvVHrF6LboENH1gC6SK8-106" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="1285.5" y="2950" as="sourcePoint" />
+            <mxPoint x="1425" y="2950" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DvVHrF6LboENH1gC6SK8-107" value="Collect coordinate&amp;nbsp;&lt;br&gt;of user&#39;s mouse&lt;br&gt;&amp;nbsp;position" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="DvVHrF6LboENH1gC6SK8-106">
+          <mxGeometry x="-0.3057" y="-1" relative="1" as="geometry">
+            <mxPoint x="12" y="4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DvVHrF6LboENH1gC6SK8-101" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="899.9973684210524" y="2900" as="sourcePoint" />
+            <mxPoint x="1295" y="2900" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DvVHrF6LboENH1gC6SK8-102" value="user A press down the left&lt;br&gt;mous key and default &lt;br&gt;setting is at DRAW mode." style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="DvVHrF6LboENH1gC6SK8-101">
+          <mxGeometry x="-0.0375" y="-5" relative="1" as="geometry">
+            <mxPoint x="-7" y="-5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DvVHrF6LboENH1gC6SK8-108" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="1299.95" y="3010" as="sourcePoint" />
+            <mxPoint x="900" y="3010" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DvVHrF6LboENH1gC6SK8-109" value="All user(s) inside the &lt;br&gt;drawing room can &lt;br&gt;see user&#39;s A drawing" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="DvVHrF6LboENH1gC6SK8-108">
+          <mxGeometry x="-0.0375" y="-5" relative="1" as="geometry">
+            <mxPoint x="-2" y="5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DvVHrF6LboENH1gC6SK8-114" value="A1" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="880" y="3060" width="570" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="DvVHrF6LboENH1gC6SK8-153" value="A2" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="880" y="3330" width="570" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="DvVHrF6LboENH1gC6SK8-156" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="1290" y="3120" as="sourcePoint" />
+            <mxPoint x="900" y="3120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DvVHrF6LboENH1gC6SK8-157" value="user on erase mode" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="DvVHrF6LboENH1gC6SK8-156">
+          <mxGeometry x="-0.0375" y="-5" relative="1" as="geometry">
+            <mxPoint x="-2" y="5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DvVHrF6LboENH1gC6SK8-159" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="1290.28" y="3415" as="sourcePoint" />
+            <mxPoint x="1039.7273684210525" y="3415" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DvVHrF6LboENH1gC6SK8-160" value="Direct to &lt;br&gt;Menu&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="DvVHrF6LboENH1gC6SK8-159">
+          <mxGeometry x="-0.0375" y="-5" relative="1" as="geometry">
+            <mxPoint x="-10" y="5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DvVHrF6LboENH1gC6SK8-162" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" edge="1" parent="1" target="DvVHrF6LboENH1gC6SK8-161">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="899.9973684210524" y="3375.4699999999993" as="sourcePoint" />
+            <mxPoint x="1290" y="3375" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DvVHrF6LboENH1gC6SK8-163" value="user press on &#39;QUIT&#39; button." style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="DvVHrF6LboENH1gC6SK8-162">
+          <mxGeometry x="-0.0375" y="-5" relative="1" as="geometry">
+            <mxPoint x="-7" y="-5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DvVHrF6LboENH1gC6SK8-161" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="1285" y="3365" width="10" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DvVHrF6LboENH1gC6SK8-164" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="1039.5" y="3415" as="sourcePoint" />
+            <mxPoint x="899.9973684210524" y="3415" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DvVHrF6LboENH1gC6SK8-165" value="Display menu" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="DvVHrF6LboENH1gC6SK8-164">
+          <mxGeometry x="-0.0375" y="-5" relative="1" as="geometry">
+            <mxPoint x="-10" y="5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DvVHrF6LboENH1gC6SK8-167" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" edge="1" parent="1" target="DvVHrF6LboENH1gC6SK8-43">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="899.9973684210524" y="3480.4699999999993" as="sourcePoint" />
+            <mxPoint x="1285" y="3480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DvVHrF6LboENH1gC6SK8-168" value="user press &#39;SNAP&#39; button" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="DvVHrF6LboENH1gC6SK8-167">
+          <mxGeometry x="-0.0375" y="-5" relative="1" as="geometry">
+            <mxPoint x="-7" y="-5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DvVHrF6LboENH1gC6SK8-169" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="1289.9973684210524" y="3480.4699999999993" as="sourcePoint" />
+            <mxPoint x="1570" y="3480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DvVHrF6LboENH1gC6SK8-170" value="&amp;nbsp;takes snapshot" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="DvVHrF6LboENH1gC6SK8-169">
+          <mxGeometry x="-0.0375" y="-5" relative="1" as="geometry">
+            <mxPoint x="-7" y="-5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DvVHrF6LboENH1gC6SK8-171" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" edge="1" parent="1" source="DvVHrF6LboENH1gC6SK8-59">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="1299.95" y="3520" as="sourcePoint" />
+            <mxPoint x="900" y="3520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DvVHrF6LboENH1gC6SK8-172" value="Saved as image file" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="DvVHrF6LboENH1gC6SK8-171">
+          <mxGeometry x="-0.0375" y="-5" relative="1" as="geometry">
+            <mxPoint x="-2" y="5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DvVHrF6LboENH1gC6SK8-174" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" edge="1" parent="1" source="DvVHrF6LboENH1gC6SK8-59">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="1535.55" y="3560" as="sourcePoint" />
+            <mxPoint x="1290" y="3560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DvVHrF6LboENH1gC6SK8-175" value="message: &#39;Screenshot &lt;br&gt;saved successfully&#39;." style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="DvVHrF6LboENH1gC6SK8-174">
+          <mxGeometry x="-0.0375" y="-5" relative="1" as="geometry">
+            <mxPoint x="-10" y="5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DvVHrF6LboENH1gC6SK8-177" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" edge="1" parent="1" source="DvVHrF6LboENH1gC6SK8-43">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="1180" y="3560" as="sourcePoint" />
+            <mxPoint x="900" y="3560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DvVHrF6LboENH1gC6SK8-178" value="Display message: &#39;Screenshot &lt;br&gt;saved successfully&#39;." style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="DvVHrF6LboENH1gC6SK8-177">
+          <mxGeometry x="-0.0375" y="-5" relative="1" as="geometry">
+            <mxPoint x="-10" y="5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DvVHrF6LboENH1gC6SK8-180" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" edge="1" parent="1" target="DvVHrF6LboENH1gC6SK8-43">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="1430" y="2640" as="sourcePoint" />
+            <mxPoint x="1295" y="2640" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DvVHrF6LboENH1gC6SK8-181" value="Joined to &lt;br&gt;drawing room" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="DvVHrF6LboENH1gC6SK8-180">
+          <mxGeometry x="-0.0375" y="-5" relative="1" as="geometry">
+            <mxPoint x="-10" y="5" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
