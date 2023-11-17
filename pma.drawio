@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-11-17T10:30:29.759Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Safari/605.1.15" etag="z5nlgDu4p_daofiKh1Y-" version="22.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-17T11:18:43.890Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Safari/605.1.15" etag="OWOpn15IySY0JJOMJAeQ" version="22.1.2" type="github">
   <diagram name="Page-1" id="f31c993MnNktxt3acmLQ">
-    <mxGraphModel dx="1793" dy="1034" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1509" dy="871" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -341,11 +341,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="HRDd_VB4GsDUX1scdBsD-33" value="Verify no. of data&lt;br&gt;&amp;nbsp;recorded &amp;lt; threshold" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="HRDd_VB4GsDUX1scdBsD-32" vertex="1" connectable="0">
-          <mxGeometry x="-0.0375" y="-5" relative="1" as="geometry">
-            <mxPoint x="-125" y="8" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="HRDd_VB4GsDUX1scdBsD-34" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="760" y="2735" as="sourcePoint" />
@@ -393,7 +388,7 @@
         <mxCell id="HRDd_VB4GsDUX1scdBsD-45" value="&lt;h1&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;User Requirement for Real Time Drawing App (RTDA)&lt;/span&gt;&lt;/h1&gt;&lt;h1&gt;&lt;/h1&gt;&lt;br&gt;&lt;br&gt;&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="890" y="20" width="690" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="HRDd_VB4GsDUX1scdBsD-46" value="&lt;h1&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Functional Requirement&amp;nbsp;&lt;/span&gt;&lt;/h1&gt;&lt;h1 style=&quot;font-size: 11px;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-weight: normal;&quot;&gt;The system allows the user to enter a room by pressing a room number.&lt;/span&gt;&lt;/font&gt;&lt;/h1&gt;&lt;h1 style=&quot;font-size: 11px;&quot;&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;The system allows user to be assigned to a random id with respect to the room number&lt;/span&gt;&lt;/h1&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;The system allow the user to view live Drawing by others&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;font&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;The system allow the user to&amp;nbsp;draw&amp;nbsp;and have&amp;nbsp;the drawing live to others&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;The system&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;allow the user to erase drawing.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;The system allows users to quit and exit the&amp;nbsp;application.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;The system allows user to save snapshot of the drawing as an image in their device&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial; font-size: 12px; font-weight: normal;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial; font-size: 12px; font-weight: normal;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;br&gt;&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+        <mxCell id="HRDd_VB4GsDUX1scdBsD-46" value="&lt;h1&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Functional Requirement&amp;nbsp;&lt;/span&gt;&lt;/h1&gt;&lt;h1 style=&quot;font-size: 11px;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-weight: normal;&quot;&gt;The system allows the user to enter a room by entering a room id for enter existing room and assigned a room id for creating a new room.&lt;/span&gt;&lt;/font&gt;&lt;/h1&gt;&lt;h1 style=&quot;font-size: 11px;&quot;&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;The system allows user to be assigned to a random id with respect to the room number.&lt;/span&gt;&lt;/h1&gt;&lt;div style=&quot;font-size: 11px; line-height: 110%;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;The system allow the user to view live Drawing by others&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 110%;&quot;&gt;&lt;font&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;The system allow the user to&amp;nbsp;draw&amp;nbsp;and have&amp;nbsp;the drawing live to others.&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 110%;&quot;&gt;&lt;font&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;The system&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;allow the user to erase drawing.&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 110%;&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;The system allows users to quit and exit the&amp;nbsp;application.&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 110%;&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;The system allows user to save snapshot of the drawing as an image in their device&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial; font-size: 12px; font-weight: normal;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial; font-size: 12px; font-weight: normal;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;br&gt;&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="880" y="465" width="450" height="170" as="geometry" />
         </mxCell>
         <mxCell id="HRDd_VB4GsDUX1scdBsD-47" value="&lt;h1&gt;Constraint&lt;/h1&gt;&lt;div&gt;&lt;h1 style=&quot;border-color: var(--border-color); font-size: 11px;&quot;&gt;&lt;font style=&quot;border-color: var(--border-color); font-weight: normal;&quot;&gt;Only a maximum of 8 people can be in a room.&lt;/font&gt;&lt;/h1&gt;&lt;h1 style=&quot;border-color: var(--border-color); font-size: 11px;&quot;&gt;&lt;font style=&quot;border-color: var(--border-color); font-weight: normal;&quot;&gt;Only a maximum 40 rooms can be at a time of the application.&lt;/font&gt;&lt;/h1&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;border-color: var(--border-color);&quot;&gt;&lt;span style=&quot;border-color: var(--border-color); font-weight: normal;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;After that, the user is required to re-logged in to the system to save record to database.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;br&gt;&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
@@ -428,8 +423,8 @@
         <mxCell id="HRDd_VB4GsDUX1scdBsD-57" value="user &lt;br&gt;interactions" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="865" y="260" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="HRDd_VB4GsDUX1scdBsD-58" value="&lt;h1&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Non Functional Requirement&amp;nbsp;&lt;/span&gt;&lt;/h1&gt;&lt;h1 style=&quot;font-size: 11px;&quot;&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;The user must have a room number and assigned random id to enter a room, view and draw.&lt;/span&gt;&lt;br&gt;&lt;/h1&gt;&lt;div&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;The room will be kept alive until everyone quits the application.&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;h1 style=&quot;font-size: 11px;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;All of the data related to the room id will be deleted and ready for a new user to use.&lt;/span&gt;&lt;/h1&gt;&lt;h1 style=&quot;font-size: 11px;&quot;&gt;&lt;br&gt;&lt;/h1&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial; font-size: 12px; font-weight: normal;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial; font-size: 12px; font-weight: normal;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;br&gt;&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="880" y="630" width="440" height="120" as="geometry" />
+        <mxCell id="HRDd_VB4GsDUX1scdBsD-58" value="&lt;h1&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Non Functional Requirement&amp;nbsp;&lt;/span&gt;&lt;/h1&gt;&lt;h1 style=&quot;font-size: 11px;&quot;&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;The user must have a room number and assigned random id to enter the drawing room.&lt;/span&gt;&lt;br&gt;&lt;/h1&gt;&lt;div&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;The room will be kept alive until everyone quits the application.&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;h1 style=&quot;font-size: 11px;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;All of the data related to the room id will be deleted and ready for a new user to use.&lt;/span&gt;&lt;/h1&gt;&lt;h1 style=&quot;font-size: 11px;&quot;&gt;&lt;br&gt;&lt;/h1&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial; font-size: 12px; font-weight: normal;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial; font-size: 12px; font-weight: normal;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;br&gt;&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="880" y="640" width="440" height="110" as="geometry" />
         </mxCell>
         <mxCell id="HRDd_VB4GsDUX1scdBsD-59" value="&lt;h1&gt;&lt;/h1&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;Hardware&lt;br&gt;&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;div&gt;Server: Local server. using c# Dotnet&lt;br&gt;&lt;/div&gt;&lt;div&gt;Client: The client will be written using Unity c# and be build as webgl so that it can be accessed by anyone without downloading an app.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;br&gt;&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="880" y="930" width="440" height="110" as="geometry" />
@@ -544,14 +539,14 @@
         <mxCell id="DvVHrF6LboENH1gC6SK8-16" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;DRAW&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1446.25" y="445" width="32.5" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="DvVHrF6LboENH1gC6SK8-17" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;CLEAR&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="DvVHrF6LboENH1gC6SK8-17" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;ERASE&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1498.75" y="445" width="32.5" height="10" as="geometry" />
         </mxCell>
         <mxCell id="DvVHrF6LboENH1gC6SK8-19" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;QUIT&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1618.75" y="445" width="32.5" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="DvVHrF6LboENH1gC6SK8-22" value="&lt;h1&gt;&lt;/h1&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;Draw&lt;br&gt;&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;Post Condition:&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;The User is joined into a room.&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;&lt;br&gt;&lt;/div&gt;1. The use case begins with the user A press down the mouse key or the touchpad and default setting is at DRAW mode.&amp;nbsp;(SRS_REQ_101)&lt;br&gt;2. The drawing will be made with the movement of the user&#39;s left click. (SRS_REQ_102) [A1: ERASE mode]&lt;br&gt;[A2: Quit].&lt;br&gt;3. The RTDA will collect the coordinate of the user&#39;s mouse, user&#39;s id to send it to the WebSocket server.&amp;nbsp;(SRS_REQ_103)&lt;br&gt;4. The WebSocket server will send the coordinate data to all of the user(s) in that room.&lt;br&gt;5. The other users who are in the same room will be able to see changes made by the user A&#39;s drawing.(SRS_REQ_104)&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;A1: ERASE Mode&lt;br&gt;1.The user press the &#39;ERASE&#39; button.&amp;nbsp;&lt;br&gt;2. The RTDA will change from draw mode to erase mode.&lt;br&gt;2. Drawings will be erased with the movement o the user&#39;s left click.&lt;br&gt;3. The Use case continues.&lt;br&gt;&lt;br&gt;A2: Quit&lt;br&gt;1. The user press the &#39;QUIT&#39; button.&lt;br&gt;2. The Menu screen will be loaded upon exiting the drawing room.&lt;br&gt;&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="890" y="1830" width="790" height="320" as="geometry" />
+        <mxCell id="DvVHrF6LboENH1gC6SK8-22" value="&lt;h1&gt;&lt;/h1&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;Draw&lt;br&gt;&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;Post Condition:&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;The User is joined into a room.&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;&lt;br&gt;&lt;/div&gt;1. The use case begins with the user A press down the mouse key or the touchpad and default setting is at DRAW mode.&amp;nbsp;(SRS_REQ_101)&lt;br&gt;2. The drawing will be made with the movement of the user&#39;s left click. (SRS_REQ_102) [A1: ERASE mode]&lt;br&gt;[A2: Quit].&lt;br&gt;3. The RTDA will collect the coordinate of the user&#39;s mouse, user&#39;s id to send it to the WebSocket server.&amp;nbsp;(SRS_REQ_103)&lt;br&gt;4. The WebSocket server will send the coordinate data to all of the user(s) in that room.&lt;br&gt;5. The other users who are in the same room will be able to see changes made by the user A&#39;s drawing.(SRS_REQ_104)&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;A1: ERASE Mode&lt;br&gt;1.The user press the &#39;ERASE&#39; button.&amp;nbsp;&lt;br&gt;2. The RTDA will change from draw mode to erase mode.&lt;br&gt;2. Drawings will be erased with the movement o the user&#39;s left click.&lt;br&gt;3. The Use case continues.&lt;br&gt;&lt;br&gt;A2: Quit&lt;br&gt;1. The user press the &#39;QUIT&#39; button.&lt;br&gt;2. The user will be out of the drawing room.&lt;br&gt;3. The Menu screen will be loaded upon exiting the drawing room.&lt;br&gt;&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="890" y="1830" width="790" height="350" as="geometry" />
         </mxCell>
         <mxCell id="DvVHrF6LboENH1gC6SK8-23" value="&lt;h1&gt;&lt;/h1&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;Take Snapshot&lt;br&gt;&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;Post Condition:&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;The User is joined into a room.&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;&lt;br&gt;&lt;/div&gt;1. The use case begins with the user A press the &#39;SNAP&#39; button. (SRS_REQ_101)&lt;br&gt;2. The drawing will be snapshot and will be saved in an image file.(SRS_REQ_102)&amp;nbsp;&lt;br&gt;3. The RTDA will display a message &#39;Screenshot saved successfully&#39;.(SRS_REQ_103)&lt;br&gt;4. The use case ends. &amp;nbsp;&amp;nbsp;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;br&gt;&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1440" y="1360" width="240" height="300" as="geometry" />
@@ -645,7 +640,7 @@
         </mxCell>
         <mxCell id="DvVHrF6LboENH1gC6SK8-104" value="Drawing will&lt;br&gt;&amp;nbsp;be made" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="DvVHrF6LboENH1gC6SK8-103">
           <mxGeometry x="-0.0375" y="-5" relative="1" as="geometry">
-            <mxPoint x="5" as="offset" />
+            <mxPoint y="-7" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="DvVHrF6LboENH1gC6SK8-111" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" edge="1" parent="DvVHrF6LboENH1gC6SK8-43" source="DvVHrF6LboENH1gC6SK8-113">
@@ -674,7 +669,7 @@
         </mxCell>
         <mxCell id="DvVHrF6LboENH1gC6SK8-143" value="Erase will&lt;br&gt;&amp;nbsp;be made" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="DvVHrF6LboENH1gC6SK8-142">
           <mxGeometry x="-0.0375" y="-5" relative="1" as="geometry">
-            <mxPoint x="5" as="offset" />
+            <mxPoint x="5" y="-7" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="DvVHrF6LboENH1gC6SK8-144" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" edge="1" parent="DvVHrF6LboENH1gC6SK8-43" source="DvVHrF6LboENH1gC6SK8-146">
@@ -719,7 +714,7 @@
             <mxPoint x="-330" y="1040" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DvVHrF6LboENH1gC6SK8-152" value="All user(s) inside the &lt;br&gt;drawing room can &lt;br&gt;see user&#39;s A erasing" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="DvVHrF6LboENH1gC6SK8-151">
+        <mxCell id="DvVHrF6LboENH1gC6SK8-152" value="Display User A&amp;nbsp;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;erase changes to all Users" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="DvVHrF6LboENH1gC6SK8-151">
           <mxGeometry x="-0.0375" y="-5" relative="1" as="geometry">
             <mxPoint x="-2" y="5" as="offset" />
           </mxGeometry>
@@ -772,7 +767,7 @@
         <mxCell id="DvVHrF6LboENH1gC6SK8-50" value="E1" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;" vertex="1" parent="1">
           <mxGeometry x="880" y="2390.5" width="570" height="69.5" as="geometry" />
         </mxCell>
-        <mxCell id="DvVHrF6LboENH1gC6SK8-51" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="DvVHrF6LboENH1gC6SK8-51" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" edge="1" parent="1" target="DvVHrF6LboENH1gC6SK8-25">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="1430" y="2435.43" as="sourcePoint" />
             <mxPoint x="1290" y="2435.43" as="targetPoint" />
@@ -791,10 +786,10 @@
         </mxCell>
         <mxCell id="DvVHrF6LboENH1gC6SK8-54" value="Display Drawing Room" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="DvVHrF6LboENH1gC6SK8-53">
           <mxGeometry x="-0.0375" y="-5" relative="1" as="geometry">
-            <mxPoint x="-7" y="-5" as="offset" />
+            <mxPoint x="-2" y="5" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DvVHrF6LboENH1gC6SK8-55" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="DvVHrF6LboENH1gC6SK8-55" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" edge="1" parent="1" source="DvVHrF6LboENH1gC6SK8-25">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="1290" y="2435.5" as="sourcePoint" />
             <mxPoint x="899.5" y="2435.5" as="targetPoint" />
@@ -833,12 +828,6 @@
             <mxPoint x="28" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DvVHrF6LboENH1gC6SK8-79" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" edge="1" parent="1" source="DvVHrF6LboENH1gC6SK8-78">
-          <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="1160" y="2610" as="sourcePoint" />
-            <mxPoint x="1430" y="2610" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="DvVHrF6LboENH1gC6SK8-81" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" edge="1" parent="1" target="DvVHrF6LboENH1gC6SK8-78">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="1160" y="2610" as="sourcePoint" />
@@ -861,7 +850,7 @@
         </mxCell>
         <mxCell id="DvVHrF6LboENH1gC6SK8-88" value="Display Drawing Room" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="DvVHrF6LboENH1gC6SK8-87">
           <mxGeometry x="-0.0375" y="-5" relative="1" as="geometry">
-            <mxPoint x="-7" y="-5" as="offset" />
+            <mxPoint x="3" y="5" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="DvVHrF6LboENH1gC6SK8-90" value="E1" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;" vertex="1" parent="1">
@@ -884,7 +873,7 @@
             <mxPoint x="899.5" y="2715" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DvVHrF6LboENH1gC6SK8-94" value="Message: &#39;Invalid Id&#39;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="DvVHrF6LboENH1gC6SK8-93">
+        <mxCell id="DvVHrF6LboENH1gC6SK8-94" value="Display Message: &#39;Invalid Id&#39;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="DvVHrF6LboENH1gC6SK8-93">
           <mxGeometry x="-0.0375" y="-5" relative="1" as="geometry">
             <mxPoint x="-2" y="5" as="offset" />
           </mxGeometry>
@@ -909,7 +898,7 @@
             <mxPoint x="900" y="2814.41" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DvVHrF6LboENH1gC6SK8-99" value="Message: &#39;Error creating a room:&lt;br&gt;&amp;nbsp;Please Try Again&#39;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="DvVHrF6LboENH1gC6SK8-98">
+        <mxCell id="DvVHrF6LboENH1gC6SK8-99" value="Display Message: &#39;Error creating a room:&lt;br&gt;&amp;nbsp;Please Try Again&#39;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="DvVHrF6LboENH1gC6SK8-98">
           <mxGeometry x="-0.0375" y="-5" relative="1" as="geometry">
             <mxPoint x="-2" y="5" as="offset" />
           </mxGeometry>
@@ -942,7 +931,7 @@
             <mxPoint x="900" y="3010" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DvVHrF6LboENH1gC6SK8-109" value="All user(s) inside the &lt;br&gt;drawing room can &lt;br&gt;see user&#39;s A drawing" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="DvVHrF6LboENH1gC6SK8-108">
+        <mxCell id="DvVHrF6LboENH1gC6SK8-109" value="Display User A &lt;br&gt;drawing changes to all Users" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="DvVHrF6LboENH1gC6SK8-108">
           <mxGeometry x="-0.0375" y="-5" relative="1" as="geometry">
             <mxPoint x="-2" y="5" as="offset" />
           </mxGeometry>
@@ -970,7 +959,7 @@
             <mxPoint x="1039.7273684210525" y="3415" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DvVHrF6LboENH1gC6SK8-160" value="Direct to &lt;br&gt;Menu&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="DvVHrF6LboENH1gC6SK8-159">
+        <mxCell id="DvVHrF6LboENH1gC6SK8-160" value="User will be out &lt;br&gt;of the.Drawing Room" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="DvVHrF6LboENH1gC6SK8-159">
           <mxGeometry x="-0.0375" y="-5" relative="1" as="geometry">
             <mxPoint x="-10" y="5" as="offset" />
           </mxGeometry>
@@ -1065,6 +1054,66 @@
           <mxGeometry x="-0.0375" y="-5" relative="1" as="geometry">
             <mxPoint x="-10" y="5" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="DvVHrF6LboENH1gC6SK8-183" value="&amp;lt;&amp;lt;boundary&amp;gt;&amp;gt; menu" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1740" y="2240" width="180" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="DvVHrF6LboENH1gC6SK8-184" value="+ field: type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="DvVHrF6LboENH1gC6SK8-183">
+          <mxGeometry y="26" width="180" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="DvVHrF6LboENH1gC6SK8-185" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="DvVHrF6LboENH1gC6SK8-183">
+          <mxGeometry y="52" width="180" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="DvVHrF6LboENH1gC6SK8-186" value="+ createNewRoom()&lt;br&gt;+ enterExistingRoom()" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="DvVHrF6LboENH1gC6SK8-183">
+          <mxGeometry y="60" width="180" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="DvVHrF6LboENH1gC6SK8-189" value="&amp;lt;&amp;lt;boundary&amp;gt;&amp;gt; enterExistingRoom" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1980" y="2240" width="210" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="DvVHrF6LboENH1gC6SK8-190" value="+ roomId: number" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="DvVHrF6LboENH1gC6SK8-189">
+          <mxGeometry y="26" width="210" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="DvVHrF6LboENH1gC6SK8-191" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="DvVHrF6LboENH1gC6SK8-189">
+          <mxGeometry y="52" width="210" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="DvVHrF6LboENH1gC6SK8-192" value="+ displayInputExistingRoom()&lt;br&gt;+ enterRoomId()" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="DvVHrF6LboENH1gC6SK8-189">
+          <mxGeometry y="60" width="210" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DvVHrF6LboENH1gC6SK8-193" value="&amp;lt;&amp;lt;services&amp;gt;&amp;gt; webSocketServer" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1980" y="2380" width="210" height="238" as="geometry" />
+        </mxCell>
+        <mxCell id="DvVHrF6LboENH1gC6SK8-194" value="+ roomIds: list&amp;lt;number&amp;gt;&lt;br&gt;+ userIds: list&amp;lt;number&amp;gt;&lt;br&gt;+ coordinates: list&amp;lt;coordinate&amp;gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="DvVHrF6LboENH1gC6SK8-193">
+          <mxGeometry y="26" width="210" height="74" as="geometry" />
+        </mxCell>
+        <mxCell id="DvVHrF6LboENH1gC6SK8-195" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="DvVHrF6LboENH1gC6SK8-193">
+          <mxGeometry y="100" width="210" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="DvVHrF6LboENH1gC6SK8-196" value="+ assignRoomId()&lt;br&gt;+ assignUserId()&lt;br&gt;+ assignFail()&lt;br&gt;+ verifyRoomId()&lt;br&gt;+ roomIdInvalid()&lt;br&gt;+ joinDrawingRoom()&lt;br&gt;+ collectCoordinateFromClient()&lt;br&gt;+ sendCoordinateToClient()" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="DvVHrF6LboENH1gC6SK8-193">
+          <mxGeometry y="108" width="210" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="DvVHrF6LboENH1gC6SK8-197" value="&amp;lt;&amp;lt;boundary&amp;gt;&amp;gt; drawingRoom" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1740" y="2380" width="180" height="258" as="geometry" />
+        </mxCell>
+        <mxCell id="DvVHrF6LboENH1gC6SK8-198" value="+ roomId: number&lt;br&gt;+ userIds: list&amp;lt;userId&amp;gt;&lt;br&gt;+ coordinates: list&amp;lt;coordinate&amp;gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="DvVHrF6LboENH1gC6SK8-197">
+          <mxGeometry y="26" width="180" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="DvVHrF6LboENH1gC6SK8-199" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="DvVHrF6LboENH1gC6SK8-197">
+          <mxGeometry y="80" width="180" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="DvVHrF6LboENH1gC6SK8-200" value="+ getMouseCoordinate()&lt;br&gt;+ draw()&lt;br&gt;+ drawMode()&lt;br&gt;+ sendCoordinateToServer()&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;+ getCoordinateFromServer()&lt;br&gt;+ displayChanges()&lt;br&gt;+ eraseMode()&lt;br&gt;+ erase()&lt;br&gt;+ quit()&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;+ snap()&lt;br&gt;+ displaySnapshotSuccess()" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="DvVHrF6LboENH1gC6SK8-197">
+          <mxGeometry y="88" width="180" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="DvVHrF6LboENH1gC6SK8-201" value="&amp;lt;&amp;lt;services&amp;gt;&amp;gt; takeSnapshot" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1740" y="2655" width="180" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="DvVHrF6LboENH1gC6SK8-202" value="+ image: blob" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="DvVHrF6LboENH1gC6SK8-201">
+          <mxGeometry y="26" width="180" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="DvVHrF6LboENH1gC6SK8-203" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="DvVHrF6LboENH1gC6SK8-201">
+          <mxGeometry y="52" width="180" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="DvVHrF6LboENH1gC6SK8-204" value="+ takesSnapshot()&lt;br&gt;+ saveAsImage()&lt;br&gt;+ successMessage()&lt;br&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="DvVHrF6LboENH1gC6SK8-201">
+          <mxGeometry y="60" width="180" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
