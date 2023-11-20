@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-11-20T07:42:08.139Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Safari/605.1.15" etag="vr7LbgsiQoi_jUNU9KdK" version="22.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-20T14:33:27.329Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Safari/605.1.15" etag="-Vs36Tu5q79yo9NNWsxj" version="22.1.3" type="github">
   <diagram name="Page-1" id="f31c993MnNktxt3acmLQ">
-    <mxGraphModel dx="1366" dy="788" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="797" dy="459" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1376,7 +1376,7 @@
         <mxCell id="Dru94tQXlruuYXSisash-19" value="Create New Room" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1830" y="4060" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Dru94tQXlruuYXSisash-20" value="Drawing Room&lt;br&gt;default draw mode = true" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Dru94tQXlruuYXSisash-20" value="Joined a Drawing Room" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2040" y="4060" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Dru94tQXlruuYXSisash-21" value="Enter Existing Room" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -1394,7 +1394,7 @@
         <mxCell id="Dru94tQXlruuYXSisash-25" value="Display Changes" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2235" y="3950" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Dru94tQXlruuYXSisash-26" value="erase mode = true" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Dru94tQXlruuYXSisash-26" value="Press Erase Button" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2240" y="4170" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Dru94tQXlruuYXSisash-27" value="Erase" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -1430,6 +1430,11 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="Dru94tQXlruuYXSisash-56" value="Add user &lt;br&gt;[userCount &amp;lt;=8]&lt;br&gt;/userCount ++" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Dru94tQXlruuYXSisash-34">
+          <mxGeometry x="-0.2762" y="-1" relative="1" as="geometry">
+            <mxPoint x="7" y="19" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="Dru94tQXlruuYXSisash-35" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1950" y="3979.52" as="sourcePoint" />
@@ -1456,12 +1461,6 @@
             <mxPoint x="2225" y="4059.05" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Dru94tQXlruuYXSisash-40" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2355" y="3979.52" as="sourcePoint" />
-            <mxPoint x="2430" y="3979.52" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="Dru94tQXlruuYXSisash-41" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Dru94tQXlruuYXSisash-20" target="Dru94tQXlruuYXSisash-26">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="2150" y="4120" as="sourcePoint" />
@@ -1484,12 +1483,6 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="2099.52" y="4170" as="sourcePoint" />
             <mxPoint x="2099.52" y="4120" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Dru94tQXlruuYXSisash-46" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2099.52" y="4280" as="sourcePoint" />
-            <mxPoint x="2099.52" y="4230" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Dru94tQXlruuYXSisash-47" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Dru94tQXlruuYXSisash-20" target="Dru94tQXlruuYXSisash-28">
@@ -1524,9 +1517,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Dru94tQXlruuYXSisash-52" value="Assign Error" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Dru94tQXlruuYXSisash-51">
+        <mxCell id="Dru94tQXlruuYXSisash-52" value="Add room [roomCount&amp;lt;=40]&lt;br&gt;/roomCount ++" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Dru94tQXlruuYXSisash-51">
           <mxGeometry x="0.072" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-13" y="19" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Dru94tQXlruuYXSisash-53" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
@@ -1542,6 +1535,32 @@
             <mxPoint x="2560" y="4169.53" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="Dru94tQXlruuYXSisash-55" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2100" y="4230" as="sourcePoint" />
+            <mxPoint x="2100" y="4280" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Dru94tQXlruuYXSisash-58" value="Add user [userCount &amp;lt;=8]/&lt;br&gt;userCount ++" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="2109.997777777778" y="4030" as="geometry" />
+        </mxCell>
+        <mxCell id="Dru94tQXlruuYXSisash-59" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.002;exitY=0.156;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2430.24" y="3979.68" as="sourcePoint" />
+            <mxPoint x="2355" y="3980.32" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Dru94tQXlruuYXSisash-60" value="&lt;span style=&quot;caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration: none; float: none; display: inline !important;&quot;&gt;erase &lt;br&gt;mode = &lt;br&gt;true&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2370" y="4200" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Dru94tQXlruuYXSisash-61" value="&lt;span style=&quot;caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration: none; float: none; display: inline !important;&quot;&gt;draw mode &lt;br&gt;= true&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2185" y="4090" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Dru94tQXlruuYXSisash-62" value="Press Enter Existing Room&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1665" y="3998" width="170" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
