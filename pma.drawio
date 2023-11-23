@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-23T07:16:57.492Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Safari/605.1.15" etag="RmB0fanrcl64e3RQEs2Y" version="22.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-23T07:18:13.860Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Safari/605.1.15" etag="UYkD9tTxHhkjyZtVQcgZ" version="22.1.3" type="github">
   <diagram name="Page-1" id="f31c993MnNktxt3acmLQ">
     <mxGraphModel dx="812" dy="503" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1463,7 +1463,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="18WSWw5W1tBmt3Dym1BJ-6" value="Press&amp;nbsp;&lt;br style=&quot;border-color: var(--border-color); font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 12px; background-color: rgb(251, 251, 251);&quot;&gt;&quot;QUIT&quot;&amp;nbsp;&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color); font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 12px; background-color: rgb(251, 251, 251);&quot;&gt;button&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Dru94tQXlruuYXSisash-47">
+        <mxCell id="18WSWw5W1tBmt3Dym1BJ-6" value="Press&amp;nbsp;&lt;br style=&quot;border-color: var(--border-color); font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 12px; background-color: rgb(251, 251, 251);&quot;&gt;&quot;QUIT&quot;&amp;nbsp;&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color); font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 12px; background-color: rgb(251, 251, 251);&quot;&gt;button/quit&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Dru94tQXlruuYXSisash-47">
           <mxGeometry x="-0.6443" y="1" relative="1" as="geometry">
             <mxPoint x="-31" y="15" as="offset" />
           </mxGeometry>
@@ -1527,8 +1527,8 @@
         <mxCell id="VU36KBfj2TVKIIq-a_FM-10" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 11px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;server sends coordinate&amp;nbsp;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2380" y="3880" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="VU36KBfj2TVKIIq-a_FM-12" value="Press &lt;br&gt;&quot;SNAP&quot;&amp;nbsp;&lt;br&gt;button" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1535" y="4115" width="70" height="60" as="geometry" />
+        <mxCell id="VU36KBfj2TVKIIq-a_FM-12" value="Press &lt;br&gt;&quot;SNAP&quot;&amp;nbsp;&lt;br&gt;button/snap" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="1525" y="4115" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VU36KBfj2TVKIIq-a_FM-15" value="&lt;span style=&quot;font-size: 11px; background-color: rgb(255, 255, 255);&quot;&gt;Press &quot;Create New Room&quot; &lt;br&gt;[userCount &amp;lt;=8 &amp;amp; roomCount &amp;lt;=40]&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color); font-size: 11px;&quot;&gt;&lt;span style=&quot;font-size: 11px; background-color: rgb(255, 255, 255);&quot;&gt;/userCount ++ &amp;amp; roomCount++&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="1225" y="4060" width="200" height="60" as="geometry" />
@@ -1543,7 +1543,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="VU36KBfj2TVKIIq-a_FM-1" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Press &quot;ERASE&quot;&lt;br&gt;Button&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="VU36KBfj2TVKIIq-a_FM-1" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Press &quot;ERASE&quot;&lt;br&gt;Button/eraseMode&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1870" y="4140" width="90" height="35" as="geometry" />
         </mxCell>
         <mxCell id="18WSWw5W1tBmt3Dym1BJ-11" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.002;exitY=0.156;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="1" target="Dru94tQXlruuYXSisash-22">
@@ -1553,7 +1553,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="18WSWw5W1tBmt3Dym1BJ-14" value="Press &quot;DRAW&quot;&lt;br style=&quot;border-color: var(--border-color); font-size: 12px; orphans: 2; widows: 2; background-color: rgb(251, 251, 251);&quot;&gt;&lt;span style=&quot;font-size: 12px; orphans: 2; widows: 2; background-color: rgb(251, 251, 251);&quot;&gt;Button&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="18WSWw5W1tBmt3Dym1BJ-11">
+        <mxCell id="18WSWw5W1tBmt3Dym1BJ-14" value="Press &quot;DRAW&quot;&lt;br style=&quot;border-color: var(--border-color); font-size: 12px; orphans: 2; widows: 2; background-color: rgb(251, 251, 251);&quot;&gt;&lt;span style=&quot;font-size: 12px; orphans: 2; widows: 2; background-color: rgb(251, 251, 251);&quot;&gt;Button/drawMode&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="18WSWw5W1tBmt3Dym1BJ-11">
           <mxGeometry x="-0.1176" y="2" relative="1" as="geometry">
             <mxPoint x="-37" y="-24" as="offset" />
           </mxGeometry>
