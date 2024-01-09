@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-09T14:15:47.169Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="P-zyz0tfuto2IcpmU8MO" version="22.1.17" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-01-09T14:27:57.249Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="DoqMTGTy2MAoyJACNatc" version="22.1.17" type="github" pages="2">
   <diagram name="Page-1" id="f31c993MnNktxt3acmLQ">
     <mxGraphModel dx="1363" dy="637" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1883,7 +1883,7 @@
         <mxCell id="d4r5r1S6kNDkQJr_r_t4-62" value="&lt;h1&gt;Software Architecture of RTDA&lt;/h1&gt;&lt;p&gt;The RTDA will be based on a 2-tier architecture with only client and server. Based on User Requirement, no database is needed as all of the session will be terminated the moment when all of the users exit a particular room.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="3620" y="45" width="510" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="d4r5r1S6kNDkQJr_r_t4-63" value="User A" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="d4r5r1S6kNDkQJr_r_t4-63" value="Client A" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="3590" y="230" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="d4r5r1S6kNDkQJr_r_t4-64" value="RTDA Server" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -1900,7 +1900,7 @@
             <mxPoint y="17" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="d4r5r1S6kNDkQJr_r_t4-67" value="User C" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="d4r5r1S6kNDkQJr_r_t4-67" value="Client C" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="3890" y="230" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="d4r5r1S6kNDkQJr_r_t4-68" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" target="d4r5r1S6kNDkQJr_r_t4-67" edge="1">
@@ -1955,7 +1955,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="d4r5r1S6kNDkQJr_r_t4-94" value="User B" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="d4r5r1S6kNDkQJr_r_t4-94" value="Client B" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="3740" y="230" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="d4r5r1S6kNDkQJr_r_t4-95" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" target="d4r5r1S6kNDkQJr_r_t4-94" edge="1">
