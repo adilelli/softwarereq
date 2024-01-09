@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-01-07T04:57:21.716Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="NHoZ0sdHKhb6gDRszpPW" version="22.1.17" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-01-09T06:08:28.291Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="CbQ19xTjh9uRN_r3GVNx" version="22.1.17" type="github" pages="2">
   <diagram name="Page-1" id="f31c993MnNktxt3acmLQ">
-    <mxGraphModel dx="1434" dy="828" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="909" dy="425" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1657,10 +1657,10 @@
             <mxPoint x="-22" y="29" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LMD_CtwYAoSM7m0Qp3FZ-53" value="Enter Existing Room" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="LMD_CtwYAoSM7m0Qp3FZ-53" value="Entered Existing Room" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2769" y="388" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="LMD_CtwYAoSM7m0Qp3FZ-54" value="&#39;Invalid Id&quot;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="LMD_CtwYAoSM7m0Qp3FZ-54" value="Invalid Room Id" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2769" y="298" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LMD_CtwYAoSM7m0Qp3FZ-55" value="" style="endArrow=classic;html=1;rounded=0;entryX=1.004;entryY=0.665;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
@@ -1675,7 +1675,7 @@
         <mxCell id="LMD_CtwYAoSM7m0Qp3FZ-56" value="Room Id Exist" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2979" y="388" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="LMD_CtwYAoSM7m0Qp3FZ-57" value="Draw Mode" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="LMD_CtwYAoSM7m0Qp3FZ-57" value="Drawing Mode" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="3149" y="608" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LMD_CtwYAoSM7m0Qp3FZ-58" value="Server recieves coordinate data" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -1690,7 +1690,7 @@
         <mxCell id="LMD_CtwYAoSM7m0Qp3FZ-61" value="Erase Mode" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="3226.5" y="738" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="LMD_CtwYAoSM7m0Qp3FZ-62" value="Save as Image" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="LMD_CtwYAoSM7m0Qp3FZ-62" value="Saved as Image" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2979" y="608" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LMD_CtwYAoSM7m0Qp3FZ-63" value="Display Snapshot success" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
