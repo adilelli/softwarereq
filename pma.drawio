@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-09T14:27:57.249Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="DoqMTGTy2MAoyJACNatc" version="22.1.17" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-01-09T14:36:47.258Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="w5lPk_NYevrMR1v18KeF" version="22.1.17" type="github" pages="2">
   <diagram name="Page-1" id="f31c993MnNktxt3acmLQ">
     <mxGraphModel dx="1363" dy="637" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1929,10 +1929,10 @@
         <mxCell id="d4r5r1S6kNDkQJr_r_t4-79" value="&lt;h1&gt;&amp;nbsp;Deployment Diagram&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="4350" y="10" width="440" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="d4r5r1S6kNDkQJr_r_t4-85" value="&amp;lt;&amp;lt;device&amp;gt;&amp;gt;&lt;br style=&quot;font-size: 15px;&quot;&gt;Websocket Server" style="verticalAlign=top;align=center;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;horizontal=1;fontSize=15;" parent="1" vertex="1">
+        <mxCell id="d4r5r1S6kNDkQJr_r_t4-85" value="&amp;lt;&amp;lt;device&amp;gt;&amp;gt;&lt;br style=&quot;font-size: 15px;&quot;&gt;WebSocket Server" style="verticalAlign=top;align=center;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;horizontal=1;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="4305" y="170.5" width="290" height="285" as="geometry" />
         </mxCell>
-        <mxCell id="d4r5r1S6kNDkQJr_r_t4-86" value="«artifact»&lt;br&gt;&lt;b&gt;Server&lt;/b&gt;" style="html=1;whiteSpace=wrap;" parent="1" vertex="1">
+        <mxCell id="d4r5r1S6kNDkQJr_r_t4-86" value="«artifact»&lt;br&gt;&lt;b&gt;.NET WebSocket Server&lt;/b&gt;" style="html=1;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="4372.5" y="280" width="145" height="140" as="geometry" />
         </mxCell>
         <mxCell id="d4r5r1S6kNDkQJr_r_t4-88" value="&amp;lt;&amp;lt;device&amp;gt;&amp;gt;&lt;br style=&quot;font-size: 15px;&quot;&gt;Client" style="verticalAlign=top;align=center;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;horizontal=1;fontSize=15;" parent="1" vertex="1">
@@ -1941,7 +1941,7 @@
         <mxCell id="d4r5r1S6kNDkQJr_r_t4-90" value="&amp;lt;&amp;lt;device&amp;gt;&amp;gt;&lt;br&gt;Browser" style="verticalAlign=top;align=center;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="4810" y="280.5" width="185" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="d4r5r1S6kNDkQJr_r_t4-91" value="«artifact»&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;WebGL&lt;/b&gt;" style="html=1;whiteSpace=wrap;" parent="1" vertex="1">
+        <mxCell id="d4r5r1S6kNDkQJr_r_t4-91" value="«artifact»&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;WebGL Client&lt;/b&gt;" style="html=1;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="4835" y="350.5" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="d4r5r1S6kNDkQJr_r_t4-92" value="" style="endArrow=block;startArrow=block;endFill=1;startFill=1;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="d4r5r1S6kNDkQJr_r_t4-86" target="d4r5r1S6kNDkQJr_r_t4-91" edge="1">
@@ -1950,7 +1950,7 @@
             <mxPoint x="4680" y="330" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="d4r5r1S6kNDkQJr_r_t4-93" value="ws:3000" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="d4r5r1S6kNDkQJr_r_t4-92" vertex="1" connectable="0">
+        <mxCell id="d4r5r1S6kNDkQJr_r_t4-93" value="&amp;lt;&amp;lt;protocol&amp;gt;&amp;gt;&lt;br&gt;ws" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="d4r5r1S6kNDkQJr_r_t4-92" vertex="1" connectable="0">
           <mxGeometry x="-0.0453" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
