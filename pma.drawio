@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-11T07:56:17.923Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="9yoON7-pukENuQgLrvkZ" version="22.1.17" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-01-11T08:15:35.977Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="_PUiK95k6SvnYwjTFF9y" version="22.1.17" type="github" pages="2">
   <diagram name="Page-1" id="f31c993MnNktxt3acmLQ">
     <mxGraphModel dx="954" dy="642" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -3063,6 +3063,9 @@
         </mxCell>
         <mxCell id="zONNmXJj1Gg2Gr0r5Cd5-35" value="Back End: Server" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="3760" y="751" width="20" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="zONNmXJj1Gg2Gr0r5Cd5-37" value="&lt;h1&gt;Software Architecture of RTDA&lt;/h1&gt;&lt;p&gt;The RTDA will be based on a microservice architecture with client and server deployed separately. This promotes loose coupling between one another with communication via websocket. Based on User Requirement, no database is needed as all of the session will be terminated the moment when all of the users exit a particular room.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="3470" y="480" width="510" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
